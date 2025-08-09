@@ -1,3 +1,4 @@
+
 # phishing-email-analysis-
 A cybersecurity task demonstrating the analysis of a sample phishing email, identifying spoofed sender details, suspicious links, urgent language, and other phishing indicators. Includes a detailed report based on a safe, fake email sample for training purposes
 # 📧 Phishing Email Analysis
@@ -21,3 +22,4 @@ This repository contains the analysis of a suspected phishing email that was rec
 3. **Preserve Evidence**  
    - Stored the screenshot and checklist file in the `screenshots/` folder.  
    - This ensures data integrity for future investigation
+<img width="1642" height="480" alt="pEmail_screenshot png" src="https://github.com/user-attachments/assets/d0441589-ddda-421c-b5fd-988a846eef9c" />
